@@ -1,1 +1,3 @@
-# Observational_Studies_with_Multi-Level_Treatments
+# Causal_Inference_with_Machine_Learned_Propensity_Scores_for_Multilevel_Treatments
+
+The study investigates the effectiveness of propensity score estimation techniques based on machine learning. These techniques include random forests (RF), generalized boosted models (GBM), data adaptive matching scores (DAMS), and multinomial logistic regression. The evaluation aims to provide insights into the performance and suitability of each method for estimating propensity scores in multilevel treatment scenarios. Additionally, the analysis explores the implications of using these techniques for causal inference in complex treatment settings.
